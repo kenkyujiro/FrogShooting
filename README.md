@@ -22,7 +22,7 @@ This is a modified textbook program. Therefore, kenkyujiro does not own the copy
 # Author
 
 * kenkyujiro
-* yuuki2628@outlook.jp
+* kenkyujiro0229@outlook.jp
 
 # License
 
